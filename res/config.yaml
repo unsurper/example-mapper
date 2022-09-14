@@ -1,0 +1,6 @@
+mqtt:
+  server: mqtt://127.0.0.1:1883
+  username: ""
+  password: ""
+  certification: ""
+configmap: ./res/virtual_device_test.json
